@@ -1,7 +1,7 @@
 # 📊 Orders Dashboard (RetailCRM + Supabase + Telegram)
 
 ## 🚀 Live Demo
-https://YOUR-VERCEL-LINK.vercel.app
+https://orders-dashboard-sigma.vercel.app/
 
 ## 📦 GitHub
 https://github.com/abylaixxi/orders-dashboard
@@ -82,3 +82,4 @@ Bot sends notification when order value exceeds 50,000 ₸.
 ## 🎯 Result
 
 Fully working ETL + analytics system with real-time notifications and dashboard visualization.
+
